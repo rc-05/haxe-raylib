@@ -1,0 +1,19 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<xml>
+	<section>
+		<files id="haxe">
+			<compilerflag value="-I${haxelib:raylib}/src"/>
+			<compilerflag value="-DRAYGUI_STANDALONE"/>
+		</files>
+
+		<target id="haxe" tool="linker" if="windows">
+		</target>
+
+		<target id="haxe" tool="linker" if="macos">
+		</target>
+
+		<target id="haxe" tool="linker" if="linux">
+			<flag value="-lraylib"/>
+		</target>
+	</section>
+</xml>

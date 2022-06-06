@@ -1,0 +1,16 @@
+--class-path examples
+--cpp build
+
+--library raylib
+
+--no-traces
+
+--define no-debug
+--define linux
+--define analyzer-optimizer
+
+--each
+--main Window
+
+--next
+--main Gui
