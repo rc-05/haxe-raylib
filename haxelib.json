@@ -1,5 +1,5 @@
 {
-	"name": "raylib",
+	"name": "haxe-raylib",
 	"url" : "https://github.com/jasononeil/useless/",
 	"license": "MIT",
 	"tags": ["hxcpp", "game", "multimedia", "framework"],
@@ -10,6 +10,5 @@
 	"contributors": ["rc-05"],
 	"dependencies": {
 		"hxcpp": ""
-	},
-	"main": "generator.Main"
+	}
   }
