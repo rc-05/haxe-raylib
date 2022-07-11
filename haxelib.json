@@ -1,8 +1,8 @@
 {
 	"name": "haxe-raylib",
-	"url" : "https://github.com/jasononeil/useless/",
-	"license": "MIT",
-	"tags": ["hxcpp", "game", "multimedia", "framework"],
+	"url" : "https://github.com/rc-05/haxe-raylib/",
+	"license": "Public",
+	"tags": ["hxcpp", "game", "multimedia", "framework", "raylib"],
 	"description": "Haxe bindings to Raylib.",
 	"version": "1.0.0",
 	"classPath": "src/",
