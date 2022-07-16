@@ -11,7 +11,9 @@ The cheatsheet for raylib is available [here](https://www.raylib.com/cheatsheet/
 ## Installation
 
 ```sh
-$ haxelib git haxe-raylib https://github.com/rc-05/haxe-raylib
+$ haxelib install raylib
+# or if you want the latest commit
+$ haxelib git raylib https://github.com/rc-05/haxe-raylib
 ```
 
 ## License
