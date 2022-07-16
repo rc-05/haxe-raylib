@@ -1,8 +1,8 @@
 {
-	"name": "haxe-raylib",
+	"name": "raylib",
 	"url" : "https://github.com/rc-05/haxe-raylib/",
 	"license": "Public",
-	"tags": ["hxcpp", "game", "multimedia", "framework", "raylib"],
+	"tags": ["hxcpp", "emscripten", "game", "multimedia", "framework", "raylib"],
 	"description": "Haxe bindings to Raylib.",
 	"version": "1.0.0",
 	"classPath": "src/",
